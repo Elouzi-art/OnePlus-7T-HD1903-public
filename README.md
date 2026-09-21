@@ -71,6 +71,19 @@ Full step-by-step guide, including:
 
 ---
 
+## Related contribution
+
+A condensed version of this guide's key safety points (safe Magisk boot patching + the known WLAN
+module compatibility issue) has been submitted upstream to the official Kali NetHunter kernels repo,
+for the `oneplus7-oos` (OxygenOS 11) kernel:
+
+**[→ Merge request #464 — kali-nethunter-kernels](https://gitlab.com/kalilinux/nethunter/build-scripts/kali-nethunter-kernels/-/merge_requests/464)**
+
+This repo (GitHub) holds the full detailed walkthrough; the upstream MR (GitLab) holds a condensed
+version scoped to what the official NetHunter docs don't already cover.
+
+---
+
 ## Prerequisites and official downloads
 
 - A PC with `adb` and `fastboot` installed
