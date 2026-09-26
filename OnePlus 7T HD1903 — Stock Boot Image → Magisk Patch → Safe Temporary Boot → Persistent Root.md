@@ -870,8 +870,8 @@ Model:              HD1903
 Product:            OnePlus7T
 Product name:       OnePlus7T_EEA
 Android:            11
-Build:              HD1903_14_220617
-Incremental:        2206171329
+Build:              HD1903_14_xxxxxxx
+Incremental:        xxxxxxxxx
 OTA:                OnePlus7TOxygen_14.E.35_GLO_0350_2206171459
 Kernel ID:          4.14-G2206171459
 ```
