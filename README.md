@@ -1,5 +1,7 @@
 # OnePlus 7T HD1903 — Root Magisk 30.7 + NetHunter
 
+> TL;DR: This repository documents a verified, step-by-step rooting procedure for the OnePlus 7T HD1903 on OxygenOS 11, including the correct Magisk workflow, temporary boot testing, and persistent root installation without relying on broken or mismatched guides.
+
 **Reference documentation for rooting a OnePlus 7T HD1903 running OxygenOS 11, then installing Kali NetHunter.**
 
 |                     |                                                                            |
@@ -17,7 +19,7 @@
 
 The **HD1903** (India / global) variant of the OnePlus 7T is poorly covered by existing documentation:
 
-- A matching stock `boot.img` for this exact variant and build is **very hard to find** online. Most forum links are dead, hosted on expired services, or belong to other variants (HD1901, HD1905, HD1907) or other OxygenOS builds.
+- A matching stock `boot.img` for this exact variant and build is **very hard to find** online. Most forum links are dead, hosted on expired services, or belong to other variants (HD1901, HD1905, ...)
 - Flashing a `boot.img` from another variant or build very quickly leads to **Qualcomm CrashDump**.
 - Many available guides present the steps in a logically impossible order (extracting the boot via `dd` **before** having root — see the note below).
 
